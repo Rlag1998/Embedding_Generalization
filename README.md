@@ -1,4 +1,4 @@
-# Quantum Metric Learning Generalization
+# Generalization of Quantum Metric Learning Classifiers
 
 _Authors: Jonathan Kim and Stefan Bekiranov_
 
