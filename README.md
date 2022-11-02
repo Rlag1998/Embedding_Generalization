@@ -1,8 +1,8 @@
 # Quantum Metric Learning Generalization
 
-_Authors: Jonathan Kim and Stefan Bekiranov_
-
 _Adapted from work authored by Maria Schuld and Aroosa Ijaz_
+
+_Authors: Jonathan Kim and Stefan Bekiranov_
 
 _Correspondence: sb3de@virginia.edu_
 
