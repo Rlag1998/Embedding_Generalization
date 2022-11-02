@@ -26,7 +26,7 @@ The resulting models are used to classify breast cancer data and ant/bee image d
 
 Data preparation files and resulting txt files can be found in the _embedding_metric_learning_ folder.
 
-The tutorial_embedding_generalization_antbee_original.py file can be run after running the antbees_original.py data preparation file to produce results similar to those seen in Lloyd et al.'s 2020 work, ["Quantum Embeddings for Machine Learning"](https://arxiv.org/abs/2001.03622). Hilbert space mutual data overlap gram matrices and intermediary scatter plots are produced when tutorial_embedding_antbee_original.py is run.
+The ``tutorial_embedding_generalization_antbee_original.py`` file can be run after running the antbees_original.py data preparation file to produce results similar to those seen in Lloyd et al.'s 2020 work, ["Quantum Embeddings for Machine Learning"](https://arxiv.org/abs/2001.03622). Hilbert space mutual data overlap gram matrices and intermediary scatter plots are produced when tutorial_embedding_antbee_original.py is run.
 
 The tutorial_embedding_generalization_antbee_pca.py file can be run after running the antsbees_general.py data preparation file (starting from 512 classical input features) or the antbees_general_noresnet.py data preparation file (starting from 150,528 classical input features) when applying PCA to the classical input to the circuit. Hilbert space mutual data overlap gram matrices and intermediary scatter plots are produced when tutorial_embedding_antbee_general.py is run.
 
