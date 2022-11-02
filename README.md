@@ -6,7 +6,7 @@ _Adapted from work authored by Maria Schuld and Aroosa Ijaz_
 
 _Correspondence: sb3de@virginia.edu_
 
-This code demonstrates the generalization performance of 'quantum metric learning' classifiers.
+The code in this repoistory cna be used to demonstrate the generalization performance of 'quantum metric learning' classifiers.
 Quantum metric learning is first introduced in [Lloyd, Schuld, Ijaz, Izaac, Killoran (2020)](https://arxiv.org/abs/2001.03622) 
 and is used to train a quantum embedding, which can be used for classifying data. Quantum embeddings are learned by maximizing 
 Hilbert-Schmidt distance of datapoints from two classes. After training, 
@@ -14,7 +14,7 @@ the datapoints of different classes become maximally separated in Hilbert
 space. This results in a simple linear decision boundary in Hilbert space 
 which represents a complex decision boundary in the original feature space.
 
-With this code, the effects of varying the number of input parameters through different datasets and dimensional reduction methods can be explored. Precision, recall and F1 scores are used alongside training cost & test cost to assess how well each trained model generalizes for test data. More details on this topic can be found in the research paper, [Generalization Performance of Quantum Metric Learning Classifiers](https://doi.org/10.3390/biom12111576). 
+Using this code, the effects of varying the number of input parameters through different datasets and dimensional reduction methods can be explored. Precision, recall and F1 scores are used alongside training cost & test cost to assess how well each trained model generalizes for test data. More details on this topic can be found in the research paper, [Generalization Performance of Quantum Metric Learning Classifiers](https://doi.org/10.3390/biom12111576). 
 
 ======================================================
 
